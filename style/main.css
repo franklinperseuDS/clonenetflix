@@ -80,3 +80,17 @@ header nav a:hover{
     background-color: white;
     color: black;
 }
+
+ .container{
+    margin-left: 30px;
+}
+
+.filme-principal .container{
+    width: 60%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
